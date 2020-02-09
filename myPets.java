@@ -16,7 +16,7 @@ public class MyPets
         System.out.println(Mochi);
         System.out.println(Ronald);
 
-        System.out.println("\nShannon Cascaddan");
+        System.out.println("\nchristine vo");
         //System.out.println(Rex.fetch());//only works when rex is a dog not a pet
         //System.out.println(Rex.Speak());
         //int[] intArray = new int[5];
